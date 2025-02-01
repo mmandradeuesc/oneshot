@@ -38,3 +38,5 @@ code .
 
 # Compile o código
 # (Certifique-se de que a extensão Pi Pico esteja configurada corretamente)
+
+# Link com a demostração do programa: https://drive.google.com/file/d/1q4Lv5F35lr3QUAt54uMWfDWPpgHUIdUw/view?usp=sharing
